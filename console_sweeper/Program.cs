@@ -7,7 +7,7 @@ namespace console_sweeper
         static void Main(string[] args)
         {
             Console.WriteLine("To do: ");
-            System.Console.WriteLine("Completed: ");
+            System.Console.WriteLine("din mor: ");
         }
     }
 }
