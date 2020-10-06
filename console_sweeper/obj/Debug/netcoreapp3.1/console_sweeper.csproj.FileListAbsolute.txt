@@ -1,0 +1,13 @@
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\bin\Debug\netcoreapp3.1\console_sweeper.exe
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\bin\Debug\netcoreapp3.1\console_sweeper.deps.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\bin\Debug\netcoreapp3.1\console_sweeper.runtimeconfig.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\bin\Debug\netcoreapp3.1\console_sweeper.runtimeconfig.dev.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\bin\Debug\netcoreapp3.1\console_sweeper.dll
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\bin\Debug\netcoreapp3.1\console_sweeper.pdb
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\obj\Debug\netcoreapp3.1\console_sweeper.csprojAssemblyReference.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\obj\Debug\netcoreapp3.1\console_sweeper.AssemblyInfoInputs.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\obj\Debug\netcoreapp3.1\console_sweeper.AssemblyInfo.cs
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\obj\Debug\netcoreapp3.1\console_sweeper.csproj.CoreCompileInputs.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\obj\Debug\netcoreapp3.1\console_sweeper.dll
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\obj\Debug\netcoreapp3.1\console_sweeper.pdb
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\Console_sweeper\console_sweeper\obj\Debug\netcoreapp3.1\console_sweeper.genruntimeconfig.cache
